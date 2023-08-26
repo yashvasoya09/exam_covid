@@ -1,5 +1,3 @@
-![Image 2023-08-26 at 10 39 05_samsung-galaxys20-cloudblue-portrait](https://github.com/yashvasoya09/exam_covid/assets/120082183/989ba0c8-9c18-4be9-bb08-ad5acac0cfbb)![WhatsApp Image 2023-08-26 at 10 39 05_samsung-galaxys20-cloudblue-portrait](https://github.com/yashvasoya09/exam_covid/assets/120082183/c2375dd6-2007-4173-9329-a42fbec18e40)# exam_covid
-
 A new Flutter project.
 
 ## Getting Started
